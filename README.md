@@ -1,5 +1,6 @@
 # Tim's website/blog 
-Theme is the Autm-rb theme: https://github.com/kirqe/autm-rb 
+Theme is the Autm-rb theme: https://github.com/kirqe/autm-rb
+ 
 Here is the helpful website I used to get through the install process: https://devblast.com/b/create-a-static-websiteblog-with-jekyll-and-github-pages/
 
 ## Other Steps
