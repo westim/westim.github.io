@@ -6,12 +6,13 @@ paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: Tim's Site
-header: Welcome to my website! Hopefully I'll be posting interesting blogs and other
-    thoughts here. In the meantime, please excuse the mess.
+title: Tim West
+header: Software Engineer in Test in Newark, DE
 
 # for welcome page
 # to replace image go to index.html
+description: >
+    My name is Tim. Welcome to my corner of the internet.
 email:
   address: "timothy.k.west@gmail.com"
   text: "timothy.k.west (at) gmail.com"
