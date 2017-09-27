@@ -1,5 +1,5 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "westim.github.io" # the base hostname & protocol for your site.
+url: "https://westim.github.io" # the base hostname & protocol for your site.
 repository: westim/westim.github.io
 
 paginate: 6 #articles per page
