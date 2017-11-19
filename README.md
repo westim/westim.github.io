@@ -1,7 +1,14 @@
 # Tim's website/blog 
 Theme is the Autm-rb theme: https://github.com/kirqe/autm-rb
  
+I relied on Github's instructions for setting up the environment: https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+
 Here is the helpful website I used to get through the install process: https://devblast.com/b/create-a-static-websiteblog-with-jekyll-and-github-pages/
+
+## Tools
+* Jekyll
+* Ruby
+* Bundler
 
 ## Other Steps
 1. I updated the Gemfile to avoid errors using the instructions here: http://talk.jekyllrb.com/t/what-is-this-error-that-i-am-receiving/722/2 
