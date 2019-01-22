@@ -8,4 +8,4 @@ Hi, I'm Tim and this is where I host my adventures through the intangible world 
 
 I always loved computers. I grew up surrounded by Gateway computers and spent many hours with The Incredible Machine and Railroad Tycoon.
 
-I'm currently an engineer with [Hologic, Inc.](http://www.hologic.com), working to improve the quality of women's health by developing automated frameworks for mammography devices.
+I'm currently a software engineer with [NuVasive, Inc.](http://www.nuvasive.com) working on improving spine surgery patient outcomes through the use of advanced technology.

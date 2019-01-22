@@ -7,7 +7,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text
 title: Tim West
-header: Software Engineer in Test
+header: Associate Software Engineer
 
 # for welcome page
 # to replace image go to index.html
